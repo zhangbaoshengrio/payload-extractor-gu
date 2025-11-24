@@ -1,0 +1,23 @@
+# Payload Extractor GUI - macOS 版本
+
+# Python 依赖说明
+# 本项目主要使用 Python 标准库，无需额外安装 Python 包
+
+# tkinter - Python 图形界面库
+# macOS 上通常随 Python 一起安装
+# 如果提示缺少 tkinter，可以通过以下方式安装：
+#
+# 使用 Homebrew 重新安装 Python:
+#   brew reinstall python-tk@3.12
+#
+# 或安装 python-tk:
+#   brew install python-tk
+
+# 外部工具依赖
+# payload-dumper-go - 核心提取工具
+# 安装方式:
+#   brew install payload-dumper-go
+# 或从 GitHub 下载:
+#   https://github.com/ssut/payload-dumper-go/releases
+
+# 无其他 Python 包依赖
